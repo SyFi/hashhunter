@@ -8,6 +8,7 @@ to run:
 ```bash
 node md5hunter.js --hash=HASH
 ```
+length of passwords starts with 1 to 19
 it takes arguments --hash=HASH and --silent to hide the process logging
 if you have any suggestion, the tools will be updated to have more function
 feedbacks are welcome
